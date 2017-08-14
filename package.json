@@ -5,5 +5,9 @@
   "main": "src/index.js",
   "repository": "https://github.com/rogeliog/eslint-runner",
   "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.8.0",
+    "throat": "^4.1.0"
+  }
 }
