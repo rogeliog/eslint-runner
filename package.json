@@ -1,0 +1,9 @@
+{
+  "name": "eslint-runner",
+  "version": "0.0.1",
+  "description": "ESLint runner for Jest",
+  "main": "src/index.js",
+  "repository": "https://github.com/rogeliog/eslint-runner",
+  "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
+  "license": "MIT"
+}
