@@ -1,1 +1,1 @@
-# Moved to https://github.com/rogeliog/jest-runner-eslint
+# Moved to [rogeliog/jest-runner-eslint](https://github.com/rogeliog/jest-runner-eslint)
